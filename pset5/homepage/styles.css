@@ -1,0 +1,24 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+}
+
+h1 {
+    color: tomato;
+}
+h2 {
+    color: yellow;
+}
+h3{
+    color: dodgerblue;
+}
+
+ol{
+    font-weight: bold;
+    font-style: oblique;
+}
+table{
+    margin: 0 auto;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
